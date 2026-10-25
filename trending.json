@@ -1,19 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "Django Unchained",
-    "description": "A freed man joins a bounty hunter and sets out to rescue his wife from a powerful plantation owner.",
-    "overview": "Set in the American South before the Civil War, Django Unchained follows Django, a freed enslaved man who teams up with bounty hunter Dr. King Schultz. Their partnership takes them on a dangerous journey as Django works toward finding and rescuing his wife, Broomhilda.",
-    "rate": 8.5,
-    "film": "./../images/trending/Django.jfif",
-    "filmBackground": "./../images/trending/backrounds/Django.jfif",
-    "genres": "Western,Drama,Action",
-    "tailer": "https://www.youtube.com/embed/eUdM9vrCbow",
-    "date": "12/25/2012",
-    "runTime": "2h,45m",
-    "adult": "R"
-  },
-  {
     "id": "2",
     "title": "How to Train Your Dragon",
     "description": "A young Viking forms an unexpected friendship with a dragon and begins to question everything his village believes.",
